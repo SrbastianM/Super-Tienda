@@ -1,0 +1,95 @@
+{
+	"products": [
+		{
+			"name": "Pathfinder Core Rule Book Pocket Edition",
+			"image": "https://m.media-amazon.com/images/I/71INExvrLdL._AC_SL1200_.jpg",
+			"price": 98467.60,
+			"rating": 5,
+			"id": 1
+		},
+		{
+			"name": "Pathfinder Beginner Box",
+			"image": "https://m.media-amazon.com/images/I/81exKNoL4-S._AC_SX679_.jpg",
+			"price": 130564.77,
+			"rating": 5,
+			"id": 2
+		},
+		{
+			"name": "Bestiary Pathfinder",
+			"image": "https://m.media-amazon.com/images/I/71ielMNOtyL._AC_SX679_.jpg",
+			"price": 155434.25,
+			"rating": 5,
+			"id": 3
+		},
+		{
+			"name": "DND Dice game set, dobule color with bag, dungeons and dragons, mtg, pathfinder, board games (Black and Red)",
+			"image": "https://m.media-amazon.com/images/I/715bDKnDfnL._AC_SX679_.jpg",
+			"price": 22499.11,
+			"rating": 4,
+			"id": 4
+		},
+		{
+			"name": "Haxtec - Dice set for RPG (DND, D&D, Pathfinder) 7 units with 20, 12, 10, 8, 6 and 4 for board role playing games",
+			"image": "https://m.media-amazon.com/images/I/71EI1OoDHjL._AC_SX679_.jpg",
+			"price": 42899.85,
+			"rating": 4.5,
+			"id": 5
+		},
+		{
+			"name": "Dungeons and Dragons 5e Players Handbook",
+			"image": "https://m.media-amazon.com/images/I/811dDmyv-pL._AC_SX679_.jpg",
+			"price": 92677.67,
+			"rating": 4.5,
+			"id": 6
+		},
+		{
+			"name": "Pathfinder Battles Deep Cuts - Red Dragon Gargantuan",
+			"image": "https://m.media-amazon.com/images/I/71zPjL+rPhL._AC_SX679_.jpg",
+			"price": 202841.70,
+			"rating": 5,
+			"id": 7
+		},
+		{
+			"name": "Dungeons & Dragons: \"Beholder\" Miniature",
+			"image": "https://m.media-amazon.com/images/I/61A6T1kCDWL._AC_SX679_.jpg",
+			"price": 48884.07,
+			"rating": 5,
+			"id": 8
+		},
+		{
+			"name": "Paizo Inc. Flip-Mat: Basic",
+			"image": "https://m.media-amazon.com/images/I/710OqahPT9L._AC_SX679_.jpg",
+			"price": 58248.99,
+			"rating": 4.5,
+			"id": 9
+		},
+		{
+			"name": "Bestiary Pawn Box",
+			"image": "https://m.media-amazon.com/images/I/71xHhwylUXL._AC_SX679_.jpg",
+			"price": 194253.95,
+			"rating": 4.5,
+			"id": 10
+		},
+		{
+			"name": "Paizo Inc. Flip-Mat: Bigger Basic",
+			"image": "https://m.media-amazon.com/images/I/81aYtjCBqPL._AC_SX679_.jpg",
+			"price": 77678.27,
+			"rating": 4.5,
+			"id": 11
+		},
+		{
+			"name": "Paizo Inc. Flip-Mat: Bigger Basic",
+			"image": "https://m.media-amazon.com/images/I/81aYtjCBqPL._AC_SX679_.jpg",
+			"price": 77678.27,
+			"rating": 4.5,
+			"id": 12
+		},
+		{
+			"name": "Pathfinder Guns and Gears",
+			"image": "https://m.media-amazon.com/images/I/81KKzid4hzL._AC_SX679_.jpg",
+			"price": 142533.21,
+			"rating": 4.5,
+			"id": 13
+		}
+	]
+}

@@ -1,0 +1,30 @@
+{
+	"users": [
+		{
+			"id": 1,
+			"name": "Paolo Torregrosa",
+			"password": "123Sexy",
+			"cart": [
+				12,
+				1
+			],
+			"email": "mail@awesome.co"
+		},
+		{
+			"id": 2,
+			"name": "Sebitas",
+			"password": "123Tenki",
+			"cart": [
+				5
+			],
+			"email": "mail@tenki.co"
+		},
+		{
+			"id": 3,
+			"name": "Karencita",
+			"password": "123UwU",
+			"cart": [],
+			"email": "mail@uwu.co"
+		}
+	]
+}

@@ -3,7 +3,8 @@ import "./styles/PersonalCardStyle.css";
 import gitHub from "../assets/presentation-card/GitHub-Mark-Light-32px.png";
 import linkind from "../assets/presentation-card/linkedin-32.ico";
 import twitter from "../assets/presentation-card/twitter-32.ico";
-export const PersonalCard = () => {
+
+function About() {
   return (
     <div>
       <section>
@@ -47,6 +48,6 @@ export const PersonalCard = () => {
       </section>
     </div>
   );
-};
+}
 
-export default PersonalCard;
+export default About;

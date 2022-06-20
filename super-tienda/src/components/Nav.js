@@ -36,7 +36,7 @@ function Nav() {
           </div>
         </div>
       </div>
-      <hr className="header-breaker" />
+      {/* <hr className="header-breaker" /> */}
     </header>
   );
 }

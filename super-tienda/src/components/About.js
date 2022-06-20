@@ -10,7 +10,10 @@ function About() {
       <section>
         <div className="card-container">
           <div className="background-container">
-            <img src="https://i.pinimg.com/564x/f4/f3/27/f4f327132f2fae5c88e9fe2e6ca84cc8.jpg" />
+            <img
+              src="https://i.pinimg.com/564x/33/20/84/33208436dbbfdd86f1a5731474cbd589.jpg"
+              alt=""
+            />
           </div>
 
           <div className="personal-info">

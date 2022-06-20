@@ -1,15 +1,13 @@
 import React from "react";
 import About from "./About";
-// import Nav from "./components/Nav.js";
+import Nav from "./Nav.js";
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 
 function App() {
   return (
     <Router>
       <div className="App">
-        <div>
-          <h1>Home Page</h1>
-        </div>
+        <Nav />
         <Routes>
           {/* <Route path="/" exact component={Home} /> */}
           <Route path="/" exact element="" />

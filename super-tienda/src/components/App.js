@@ -2,7 +2,7 @@ import React from "react";
 import About from "./About";
 import Nav from "./Nav.js";
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
-import Slider from "./slider";
+import Slider from "./Slider";
 
 function App() {
   return (
@@ -11,7 +11,6 @@ function App() {
         <Nav />
         <Slider />
         <Routes>
-          {/* <Route path="/" exact component={Home} /> */}
           <Route path="/" exact element="" />
           <Route path="/about" element={<About />} />
         </Routes>
